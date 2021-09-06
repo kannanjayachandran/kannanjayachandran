@@ -14,8 +14,8 @@
 -  🤔 Intrested in :  **History** 🗝️ , **Science**✈️ .
 
 
-- 📫 How to reach me: Twitter : Twitter : [@kannan jayachandran](https://twitter.com/kannanj362) , [@gmail](kannanjayachandran3000@gmail.com)
-
+- 📫 How to reach me: Twitter : Twitter : [@kannan jayachandran](https://twitter.com/kannanj362) 
+- _email : kannanjayachandran3000@gmail.com_
 
 
 - 😄 Pronouns: He/His
