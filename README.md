@@ -1,5 +1,5 @@
 ## Hey <span class="wave">👋</span>
-<style>
+<style
 .wave {
   animation-name: wave-animation;  /* Name of @keyframes element below */
   animation-duration: .75s;  /* Wave speed */
@@ -21,7 +21,7 @@
   75% { transform: rotate( 12deg ) }
   100% { transform: rotate( 0deg ) }
 }
-</style>
+       > </style>
 ### I'm Kannan ☺️
 
 - _Currently studying_ **Computer Science Engineering(AI & ML)** at **SAITM** _Gurgaon_
