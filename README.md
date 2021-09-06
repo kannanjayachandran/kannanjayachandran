@@ -24,3 +24,7 @@
 
 - ⚡ Fun fact: **I LOVE LEARNING**
 
+<span class="wave">👋</span>
+
+
+
