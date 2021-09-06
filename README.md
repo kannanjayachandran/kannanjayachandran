@@ -1,6 +1,6 @@
 ## Hey 👋
 
-### I'm Kannan
+### I'm Kannan ☺️
 
 - _Currently studying_ **Computer Science Engineering(AI & ML)** at **SAITM** _Gurgaon_
 
