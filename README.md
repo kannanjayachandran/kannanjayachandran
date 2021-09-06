@@ -5,10 +5,7 @@
 - _Currently studying_ **Computer Science Engineering(AI & ML)** at **SAITM** _Gurgaon_
 
 
-- 🌱 I’m currently learning:
-
-- 1. Java (DSA)
-- 2. Python (DSA)
+- 🌱 I’m currently learning about **Machine learning**
 
 
 - 💬 Ask me about **CS** 💻 , **Tech** 🧑‍💻 .
