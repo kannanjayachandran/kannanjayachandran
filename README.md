@@ -6,10 +6,10 @@
 
 
 - 🌱 I’m currently learning:
-- 1. Java
-- 2. Python
+- 1. Java (DSA)
+- 2. Python (DSA)
 
-- 💬 Ask me about **CS** and other _tech_ related things.
+- 💬 Ask me about **CS** 💻 , **Tech** 🧑‍💻 , **History** 🗝️
 
 - 📫 How to reach me: Twitter : Twitter : [@kannan jayachandran](https://twitter.com/kannanj362)
 
