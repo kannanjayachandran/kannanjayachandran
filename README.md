@@ -14,7 +14,7 @@
 -  🤔 Intrested in :  **History** 🗝️ , **Science**✈️ .
 
 
-- 📫 How to reach me: Twitter : Twitter : [@kannan jayachandran](https://twitter.com/kannanj362)
+- 📫 How to reach me: Twitter : Twitter : [@kannan jayachandran](https://twitter.com/kannanj362) , [@gmail](kannanjayachandran3000@gmail.com)
 
 
 
