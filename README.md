@@ -6,15 +6,23 @@
 
 
 - 🌱 I’m currently learning:
+
 - 1. Java (DSA)
 - 2. Python (DSA)
 
-- 💬 Ask me about **CS** 💻 , **Tech** 🧑‍💻 , **History** 🗝️
+
+- 💬 Ask me about **CS** 💻 , **Tech** 🧑‍💻 .
+
+
+-  🤔 Intrested in :  **History** 🗝️ , **Science**✈️ .
+
 
 - 📫 How to reach me: Twitter : Twitter : [@kannan jayachandran](https://twitter.com/kannanj362)
 
 
+
 - 😄 Pronouns: He/His
+
 
 
 - ⚡ Fun fact: **I LOVE LEARNING**
