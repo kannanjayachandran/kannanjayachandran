@@ -1,4 +1,5 @@
 ## Hey <span class="wave">👋</span>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=WELCOME%20🌻&width=800&height=400)]
 
 ### I'm Kannan ☺️
 
@@ -27,6 +28,6 @@
 - ⚡ Fun fact: **I LOVE LEARNING**
 
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=WELCOME%20🌻&width=800&height=400)]
+
 
 
