@@ -1,7 +1,7 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=WELCOME%&width=800&height=200) 
  
 
-## Hey <span class="wave">👋</span>  I'm Kannan ☺️
+## Hey <span class="wave">👋</span>  I'm Kannan
 
 
 - _Currently studying_ **Computer Science Engineering(AI & ML)** at **SAITM** _Gurgaon_
@@ -27,6 +27,8 @@
 
 
 - ⚡ Fun fact: **I LOVE LEARNING**
+
+<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
 
 
 ## Tech Stack
