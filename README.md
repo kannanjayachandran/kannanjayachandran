@@ -14,13 +14,13 @@
 
 
 -  🤔 Intrested in :  **History** 🗝️ , **Science**✈️ .
--  
+
+ 
 -**Happy to co-help and team-up in learning** 🥇 🥈 🥉
 
 
 - 📫 How to reach me:
-                * _Twitter : [@kannan jayachandran](https://twitter.com/kannanj362)_  
-                *_email : kannanjayachandran3000@gmail.com_
+-  _Twitter : [@kannan jayachandran](https://twitter.com/kannanj362)_  -  _email : kannanjayachandran3000@gmail.com_
 
 
 - 😄 Pronouns: He/His
