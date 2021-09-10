@@ -7,7 +7,7 @@
 - _Currently studying_ **Computer Science Engineering(AI & ML)** at **SAITM** _Gurgaon_
 
 
-- 🌱 I’m currently learning about Basics of **AI** and **ML**
+- 🌱 I’m currently learning <span style="font-family: 'Lucida Console';">Java</span>
 
 
 - 💬 Ask me about **CS** 💻 , **Tech** 🧑‍💻 .
