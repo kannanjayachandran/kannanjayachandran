@@ -3,7 +3,7 @@
 
 ## Hey <span class="wave">👋</span>  I'm Kannan
 
-
+<span style="color: #f2cf4a; font-family: San Francisco; font-size: 2em;">
 - _Currently studying_ **Computer Science Engineering(AI & ML)** at **SAITM** _Gurgaon_
 
 
@@ -27,8 +27,7 @@
 
 
 - ⚡ Fun fact: **I LOVE LEARNING**
-
-<span style="color: #f2cf4a; font-family: San Francisco; font-size: 2em;">INSPIRATION DAY</span>
+</span>
 
 
 ## Tech Stack
