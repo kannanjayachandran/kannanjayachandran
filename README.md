@@ -1,5 +1,5 @@
 ## Hey <span class="wave">👋</span>
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=WELCOME%&width=800&height=400)]
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=WELCOME%&width=800&height=200)]
 
 ### I'm Kannan ☺️
 
