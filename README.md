@@ -1,10 +1,9 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=WELCOME%&width=800&height=200) 
  
 
-## Hey <span class="wave">👋</span>  I'm Kannan
+# Hey <span class="wave">👋</span>  I'm Kannan
 
-
-- Currently studying : **Computer Science Engineering(AI & ML)** at **SAITM** _Gurgaon_
+## I'm currently studying **Computer Science Engineering(AI & ML)** at **SAITM** _Gurgaon_
 
 
 - 🌱 I’m currently learning : **Java & Python**
@@ -14,13 +13,12 @@
 
 
 -  🤔 Intrested in :  **History** 🗝️ , **Science**✈️ .
+-  
+-**Happy to co-help and team-up in learning** 🥇 🥈 🥉
 
 
--  ** Happy to co-help and team-up in learning** 🥇 🥈 🥉
-
-
-- 📫 How to reach me: Twitter : Twitter : [@kannan jayachandran](https://twitter.com/kannanj362) 
-- _email : kannanjayachandran3000@gmail.com_
+- 📫 How to reach me: Twitter : Twitter : [@kannan jayachandran](https://twitter.com/kannanj362)  
+                                _email : kannanjayachandran3000@gmail.com_
 
 
 - 😄 Pronouns: He/His
