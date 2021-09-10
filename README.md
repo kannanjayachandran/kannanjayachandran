@@ -4,19 +4,19 @@
 ## Hey <span class="wave">👋</span>  I'm Kannan
 
 
-- _Currently studying_ **Computer Science Engineering(AI & ML)** at **SAITM** _Gurgaon_
+- Currently studying : **Computer Science Engineering(AI & ML)** at **SAITM** _Gurgaon_
 
 
-- 🌱 I’m currently learning <span style="font-family: 'Comic Sans Ms';">Java</span>
+- 🌱 I’m currently learning : **Java & Python**
 
 
-- 💬 Ask me about **CS** 💻 , **Tech** 🧑‍💻 .
+- 💬 Ask me about : **Tech related stuffs** 🧑‍💻 .
 
 
 -  🤔 Intrested in :  **History** 🗝️ , **Science**✈️ .
 
 
-- ### Ready to co-help in learning 🥇 🥈 🥉
+-  ** Happy to co-help and team-up in learning** 🥇 🥈 🥉
 
 
 - 📫 How to reach me: Twitter : Twitter : [@kannan jayachandran](https://twitter.com/kannanj362) 
