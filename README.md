@@ -1,10 +1,13 @@
 ## Hey <span class="wave">👋</span>
-![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=WELCOME<sub>Kannan Jayachandran</sub>%&width=800&height=200)
+![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=WELCOME%&width=800&height=200)
 
+ 
+--- 
 ### I'm Kannan ☺️
 
 - _Currently studying_ **Computer Science Engineering(AI & ML)** at **SAITM** _Gurgaon_
 
+---
 
 - 🌱 I’m currently learning about Basics of **AI** and **ML**
 
