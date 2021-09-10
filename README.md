@@ -3,7 +3,8 @@
 
 # Hey <span class="wave">👋</span>  I'm Kannan
 
-### currently studying __Computer Science Engineering(AI & ML)__ at **SAITM** _Gurgaon_
+
+- 📖 currently studying __Computer Science Engineering(AI & ML)__ at **SAITM** _Gurgaon_
 
 
 - 🌱 I’m currently learning : **Java & Python**
