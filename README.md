@@ -19,8 +19,8 @@
 - **Happy to co-help and team-up in learning** 🥇 🥈 🥉
 
 
-- 📫 How to reach me:
--  ![[Twitter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- 📫 How to reach me: ![Twitter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+-  
     [Kannan Jyachandran](https://twitter.com/kannanj362)_  
     _email : kannanjayachandran3000@gmail.com_
 
