@@ -16,7 +16,7 @@
 -  🤔 Intrested in :  **History** 🗝️ , **Science**✈️ .
 
  
--**Happy to co-help and team-up in learning** 🥇 🥈 🥉
+- **Happy to co-help and team-up in learning** 🥇 🥈 🥉
 
 
 - 📫 How to reach me:
