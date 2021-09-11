@@ -20,7 +20,7 @@
 
 
 - 📫 How to reach me:
--  _Twitter : [@kannan jayachandran](https://twitter.com/kannanj362)_  -  _email : kannanjayachandran3000@gmail.com_
+-  ![[Twitter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[@kannan jayachandran](https://twitter.com/kannanj362)_  -  _email : kannanjayachandran3000@gmail.com_
 
 
 - 😄 Pronouns: He/His
