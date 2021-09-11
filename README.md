@@ -21,7 +21,7 @@
 
 - 📫 How to reach me: **Twitter**  [Kannan Jyachandran](https://twitter.com/kannanj362)
     
-     **email** [Kannanjayachandran3000](kannanjayachandran3000@gmail.com)
+     **email** (kannanjayachandran3000@gmail.com)
 
 
 - 😄 Pronouns: He/His
