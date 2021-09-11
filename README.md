@@ -19,9 +19,9 @@
 - **Happy to co-help and team-up in learning** 🥇 🥈 🥉
 
 
-- 📫 How to reach me:   [Kannan Jyachandran](https://twitter.com/kannanj362)
+- 📫 How to reach me: **Twitter**  [Kannan Jyachandran](https://twitter.com/kannanj362)
     
-    _email : kannanjayachandran3000@gmail.com_
+     **email** [Kannanjayachandran3000](kannanjayachandran3000@gmail.com)
 
 
 - 😄 Pronouns: He/His
