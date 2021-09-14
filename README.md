@@ -7,13 +7,10 @@
 - 📖 Studying : __Computer Science Engineering(AI & ML)__ at **SAITM** _Gurgaon_
 
 
-- 🌱 I’m currently learning : **Java & Python**
-
-
 - 💬 Ask me about : **Tech related stuffs** 🧑‍💻 .
 
 
--  🤔 Intrested in :  **History** 🗝️ , **Science**✈️ .
+-  🤔 Curious about :  **History** 🗝️ , **Science**✈️ .
 
  
 - **Happy to co-help and team-up in learning** 🥇 🥈 🥉
