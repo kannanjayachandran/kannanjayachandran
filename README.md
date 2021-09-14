@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Kannan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3></h1>
 <h3 align="center">AI & ML Engineering Student</h3>
 
-### I'm doing my B-Tech in Computer Science Engineering(AI & ML) Student from india
+#### I'm doing my B-Tech in Computer Science Engineering(AI & ML) Student at _SAITM_ Gurgaon india.
 
-I ____ at **SAITM** _Gurgaon_
+I ____ _
 
 
 - 💬 Ask me about : **Tech related stuffs** 🧑‍💻 .
