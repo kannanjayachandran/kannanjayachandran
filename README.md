@@ -2,7 +2,7 @@
 <h3 align="center">AI & ML Engineering Student</h3>
 <br>
 
-<h4>  I'm doing my B-Tech in Computer Science Engineering (AI & ML) from <i>SAITM</i> Gurgaon **india.** </h4>
+<h4>  I'm doing my B-Tech in Computer Science Engineering (AI & ML) from <i>SAITM</i> Gurgaon india. </h4>
 
 
 - 🌱 Currently Learning : Java & Python.
@@ -37,6 +37,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kannanjayachandran)](https://github.com/anuraghazra/github-readme-stats)
 
