@@ -2,7 +2,7 @@
 <h3 align="center">AI & ML Engineering Student</h3>
 <br>
 
--  I'm doing my B-Tech in **Computer Science Engineering(AI & ML)** from **_SAITM_** Gurgaon **india.**
+###  I'm doing my B-Tech in **Computer Science Engineering(AI & ML)** from **_SAITM_** Gurgaon **india.**
 
 
 - 🌱 Currently Learning : Java & Python.
