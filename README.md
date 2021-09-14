@@ -37,4 +37,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kannanjayachandran)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans&color=11E6F7&size=60&center=true&width=800&height=200&lines=Thank+You+.+Visit+Again)](https://git.io/typing-svg)
