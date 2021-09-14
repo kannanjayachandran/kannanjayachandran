@@ -48,9 +48,10 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
 <a href="https://www.sublimetext.com/" title="Sublime Text"><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="Sublime Text" width="40px" height="40px"></a>
 
-
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kannanjayachandran)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans&color=11E6F7&size=60&center=true&width=800&height=200&lines=Thank+You+.+Visit+Again)](https://git.io/typing-svg)
+
