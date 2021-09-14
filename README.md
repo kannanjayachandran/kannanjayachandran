@@ -2,8 +2,6 @@
 <h3 align="center">AI & ML Engineering Student</h3>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kannanjayachandran=Profile%20views&color=0e75b6&style=flat" alt="someshtiwarii" /> </p>
-<br>
 -  I'm doing my B-Tech in **Computer Science Engineering(AI & ML)** Student at **_SAITM_** Gurgaon **india.**
 
 
