@@ -5,13 +5,13 @@
 <h4>  I'm doing my B-Tech in Computer Science Engineering (AI & ML) from <i>SAITM</i> Gurgaon india. </h4>
 
 
-- 🌱 Currently Learning : Java & Python.
+- 🌱 Currently Learning : **Java** & **Python.**
 
 
-- 💬 Ask me about : **Tech related stuffs** 🧑‍💻 .
+- 💬 Ask me about : **Anything** 😅.
 
 
--  🤔 Curious about :  **History** 🗝️ , **Science**✈️ .
+-  🤔 Curious about :  **History** 🗝️ , **Physics** 🐧 , **philosophy** 🤔.
 
  
 - **Happy to co-help and team-up in learning** 🥇 🥈 🥉
