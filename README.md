@@ -11,7 +11,7 @@
 - 💬 Ask me about : **Anything** 😅.
 
 
--  🤔 Curious about :  **History** 🗝️ , **Physics** 🐧 , **philosophy** 🤔.
+-  🤔 Curious about :  **History** 🗝️ , **Physics** 🐧 , **Tech** 🤔.
 
  
 - **Happy to co-help and team-up in learning** 🥇 🥈 🥉
