@@ -9,7 +9,7 @@
 
 - 🌱 Currently Learning : **DSA** and **Linux**
 
-- 👾 Starting with _open source_ and _community_
+- 👾 Starting with **open source** and **community**
 
 - 💬 Ask me about : **Anything** 😅.
 
