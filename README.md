@@ -7,8 +7,9 @@
 <h4>  I'm doing my B-Tech in Computer Science Engineering (AI & ML) from <i>SAITM</i> Gurgaon india. </h4>
 
 
-- 🌱 Currently Learning : **Java** & **Python.**
+- 🌱 Currently Learning : **DSA** and **Linux**
 
+- 👾 Starting with _open source_ and _community_
 
 - 💬 Ask me about : **Anything** 😅.
 
