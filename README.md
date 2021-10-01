@@ -26,7 +26,7 @@
 
 
 ## Connect with me
-<p align="left">
+<p align="centre">
 <a href="https://twitter.com/kannanj362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kannan" height="30" width="40" /></a>
 </p>
 
