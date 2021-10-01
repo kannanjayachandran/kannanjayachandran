@@ -16,7 +16,7 @@
 
 -  🤔 Curious about :  **History** 🗝️ , **Physics** 🐧 , **Tech** 🤔
 
--  📫 How to reach me **kartikpandita121@gmail.com**
+-  📫 How to reach me **kannanjayachandran3000@gmail.com**
 
  
 - **Happy to co-help and team-up in learning** 🥇 🥈 🥉
