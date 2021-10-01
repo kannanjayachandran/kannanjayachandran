@@ -11,10 +11,12 @@
 
 - 👾 Starting with **open source** and **community**
 
-- 💬 Ask me about : **Anything** 😅.
+- 💬 Ask me about : **Anything** 😅
 
 
--  🤔 Curious about :  **History** 🗝️ , **Physics** 🐧 , **Tech** 🤔.
+-  🤔 Curious about :  **History** 🗝️ , **Physics** 🐧 , **Tech** 🤔
+
+-  📫 How to reach me **kartikpandita121@gmail.com**
 
  
 - **Happy to co-help and team-up in learning** 🥇 🥈 🥉
