@@ -20,11 +20,11 @@
 - **Happy to co-help and team-up in learning** 🥇 🥈 🥉
 
 
-- 📫 How to reach me: 
-
-     **Twitter**  : [Kannan Jyachandran](https://twitter.com/kannanj362)
-    
-     **email** : kannanjayachandran3000@gmail.com
+## 🔎 Connect with me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kannanj362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kannan" height="30" width="40" /></a>
+</p>
 
 
 - 😄 Pronouns: He/His
