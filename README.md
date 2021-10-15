@@ -1,24 +1,23 @@
 <h1 align="center">Hi , I'm Kannan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3></h1>
 <h3 align="center">AI & ML Engineering Student</h3>
-<br>
 
+<br>
 
 <h3> I am a sophomore CS (AI &  ML) Engineering student from India, zealous about Computer Science and Engineering, particularly AI, cloud and Algorithms. Apart from CS I love exploring physics and studying history. I enjoy learning new things and sharing my knowledge. I  am an open source enthusiast and have learned much from Open Source and community. </h3>
 
+<h4>I am currently Learning  DSA and Linux</h4>
+
+<br> 
 <br>
-
-<h3>I am currently Learning  DSA and Linux</h3>
-
-<br>
-
--  📫 How to reach me **kannanjayachandran3000@gmail.com**
-
- 
 
 ## Connect with me
 <p align="centre">
 <a href="https://twitter.com/kannanj362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kannan" height="30" width="40" /></a>
 </p>
+<p align="centre"> 📫  kannanjayachandran3000@gmail.com </p>
+
+<br>
+<br>
 
 ## Tech Stack And Tools I Use
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px"></a>
@@ -33,7 +32,16 @@
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="40px" height="40px"></a>
 
 
+<br>
+<br>
+
+ 
+| Github Stats | Top Languages |
+| --- | --- |
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kannanjayachandran&show_icons=true&locale=en" alt="kannanjayachandran" /></p> | ![kannanjayachandran's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kannanjayachandran&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kannanjayachandran&label=Profile%20views&color=0e75b6&style=flat" alt="kannanjayachandran" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kannanjayachandran&show_icons=true&locale=en" alt="kannanjayachandran" /></p>
+
 
 
