@@ -4,7 +4,7 @@
 
 ##   About Me
 
-<h4>  I'm doing my B-Tech in Computer Science Engineering (AI & ML) from <i>SAITM</i> Gurgaon india. </h4>
+<h4> I am a sophomore CS (AI &  ML) Engineering student from India, zealous about Computer Science and Engineering, particularly AI, cloud and Algorithms. </h4>
 
 
 - 🌱 Currently Learning : **DSA** and **Linux**
