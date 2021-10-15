@@ -2,30 +2,18 @@
 <h3 align="center">AI & ML Engineering Student</h3>
 <br>
 
-##   About Me
 
-<h4> I am a sophomore CS (AI &  ML) Engineering student from India, zealous about Computer Science and Engineering, particularly AI, cloud and Algorithms. </h4>
+<h3> I am a sophomore CS (AI &  ML) Engineering student from India, zealous about Computer Science and Engineering, particularly AI, cloud and Algorithms. Apart from CS I love exploring physics and studying history. I enjoy learning new things and sharing my knowledge. I  am an open source enthusiast and have learned much from Open Source and community. </h3>
 
+<br>
 
-- 🌱 Currently Learning : **DSA** and **Linux**
+<h3>I am currently Learning  DSA and Linux</h3>
 
-- 👾 Starting with **open source** and **community**
-
-- 💬 Ask me about : **Anything** 😅
-
-
--  🤔 Curious about :  **History** 🗝️ , **Physics** 🐧 , **Tech** 🤔
+<br>
 
 -  📫 How to reach me **kannanjayachandran3000@gmail.com**
 
  
-- **Happy to co-help and team-up in learning** 🥇 🥈 🥉
-
-- 😄 Pronouns: He/His
-
-
-- ⚡ Fun fact: **I LOVE LEARNING**
-
 
 ## Connect with me
 <p align="centre">
