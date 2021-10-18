@@ -1,19 +1,18 @@
 <h1 align="center">Hi , I'm Kannan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3></h1>
 <h3 align="center">AI & ML Engineering Student</h3>
 
-<br>
 
-<h3> I am a sophomore CS (AI &  ML) Engineering student from India, zealous about Computer Science and Engineering, particularly AI, cloud and Algorithms. Apart from CS I love exploring physics and studying history. I enjoy learning new things and sharing my knowledge. I  am an open source enthusiast and have learned much from Open Source and community. </h3>
+
+<h3 align="center"> I am a sophomore CS (AI &  ML) Engineering student from India, zealous about Computer Science and Engineering, particularly AI, cloud and Algorithms. Apart from CS I love exploring physics and studying history. I enjoy learning new things and sharing my knowledge. I  am an open source enthusiast and have learned much from Open Source and community. </h3>
 
 - I am currently Learning  __DSA__ and __Linux__
 
 <br> 
 
 ## Connect with me
-<p align="centre">
-<a href="https://twitter.com/kannanj362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kannan" height="30" width="40" /></a>
-</p>
-<p align="centre"> 📫  kannanjayachandran3000@gmail.com </p>
+
+<a href="https://twitter.com/kannanj362" title="TWITTER" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kannan" height="30" width="40" /></a>
+  kannanjayachandran3000@gmail.com 
 
 <br>
 
