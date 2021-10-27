@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center"> I am a sophomore CS (AI &  ML) Engineering student from India, zealous about Computer Science and Engineering, particularly AI, cloud and Algorithms. Apart from CS I love exploring physics and studying history. I enjoy learning new things and sharing my knowledge. I  am an open source enthusiast and have learned much from Open Source and community. </h3>
+<h3 align="center"> I am a sophomore CS (AI &  ML) Engineering student from India, zealous about Computer Science and Engineering, particularly AI, cloud and Algorithms. Apart from CS I love exploring physics and studying history. I enjoy learning new things and sharing my knowledge. I  am an open source enthusiast and have learned a lot from Open Source and the community. </h3>
 
 - I am currently Learning  __DSA__ and __Linux__
 
