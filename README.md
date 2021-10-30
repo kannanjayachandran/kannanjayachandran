@@ -1,7 +1,6 @@
 <head>
 
- <style>
- </style>
+
 
 </head>
 
