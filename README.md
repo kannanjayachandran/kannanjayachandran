@@ -19,9 +19,13 @@
 
 <h3 align="center">
  
-  I am a sophomore CS (AI &  ML) Engineering student from India, zealous about Computer Science and Engineering, particularly AI, cloud and Algorithms. Apart from CS I love exploring physics and studying history. I enjoy learning new things and sharing my knowledge. I  am an open source enthusiast and have learned a lot from Open Source and the community.
+  I am a sophomore CS (AI &  ML) Engineering student from India, zealous about Computer Science and Engineering, particularly AI, cloud and Algorithms. Apart from CS I love exploring physics and studying history. I enjoy learning new things and sharing my knowledge; and often spend time learning about differrent sub-fields of Computer Science I am an open source enthusiast and have learned a lot from Open Source and the community.
  </h3>
-
+ 
+<h3 align="center">
+ I am currently learning DSA & Algorithms Along with basics of cloud computing and DevOps.
+ </h3>
+ 
 <br>
 
 </body>
