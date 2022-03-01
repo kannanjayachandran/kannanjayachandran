@@ -24,7 +24,7 @@
 <h3 style= align="center">Hi, I'm <strong>Kannan Jayachandran</strong>, I am a Computer Science Engineering (specializing in AI &  ML) Student and developer from India. I am currently in my sophomore year. Apart from Computer Science I love reading Sci-Fi books, exploring Physics, studying History. </h4>
 
 
-<h3 style="font-size: 108%" align="center">I enjoy learning new things and sharing my knowledge. I usually spend a great deal of time on learning in depth concepts of Computer Science. I constantly try to contribute to Open Source communities and Open Knowledge platforms and have hugely benefited from them.</h4>
+<h3 style="font-size: 108%" align="center">I enjoy learning new things and sharing my knowledge. I usually spend a great deal of time on learning in depth concepts of Computer Science. I constantly try to contribute to Open Source communities.</h4>
 
 <h3 style="font-size: 117%" align="center">I am currently learning DSA, Cloud computing(DevOps), and basics of AI & ML</h3>
 
