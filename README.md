@@ -26,7 +26,7 @@
 
 <h3 style="font-size: 108%" align="center">I enjoy learning new things and sharing my knowledge. I usually spend a great deal of time on learning in depth concepts of Computer Science.</h4>
 
-<h3 style="font-size: 117%" align="center">I am currently learning AI - ML and DEVOPS. I want to pursue a career in MLOPS</h3>
+<h3 style="font-size: 117%" align="center">I am currently learning AI - ML and DEVOPS.</h3>
 
  <br>
  
