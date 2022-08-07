@@ -21,7 +21,7 @@
 
 </h4>
 
-<h3 style= align="center">Hi, I'm <strong>Kannan Jayachandran</strong>, I am a Computer Science Engineering (specializing in <i>Artificial Intelligence &  Machine Learning</i>) Student from India. I am currently in third year. Apart from Computer Science I love reading Sci-Fi books, exploring Physics, studying History. </h4>
+<h3 style= align="center">Hi, I'm <strong>Kannan Jayachandran</strong>, I am a Computer Science Engineering (specializing in <i>Artificial Intelligence &  Machine Learning</i>) Student from India. I am currently in my third year. Apart from Computer Science I love reading Sci-Fi books, exploring Physics, studying History. </h4>
 
 
 <h3 style="font-size: 108%" align="center">I enjoy learning new things and sharing my knowledge. I usually spend a great deal of time on learning in depth concepts of Computer Science.</h4>
