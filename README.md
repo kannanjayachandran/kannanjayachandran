@@ -36,7 +36,7 @@
 
 </h1>
  
-<div class="tools">
+<div align="center" class="tools">
 
 [<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="7%"/>](https://www.w3.org/TR/html5) &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" width="6%"/>](https://www.w3.org/TR/html5) &nbsp;[<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" width="9%"/>](https://www.w3.org/TR/html5) &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="7%"/>](https://www.w3.org/TR/html5) &nbsp;[<img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" width="7%" />](https://www.w3.org/TR/html5) &nbsp;[<img src="go.png" width="7%"/>](https://www.w3.org/TR/html5) &nbsp;[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="7%"/>](https://www.w3.org/TR/html5) &nbsp;[<img src="https://img.icons8.com/color/96/000000/google-cloud.png" width="7%" />](https://www.w3.org/TR/html5) &nbsp;[<img src="https://img.icons8.com/fluency/48/000000/jupyter.png" width="7%"/>](https://www.w3.org/TR/html5) &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="7%"/>](https://www.w3.org/TR/html5) &nbsp;
 
@@ -48,10 +48,14 @@
 :zap: Stats  :zap:
  </h1>
  
+ <h1 align="center">
+ 
 | Github Stats                                                                                                                                                                                                                                                       | Top Languages                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kannanjayachandran&show_icons=true&theme=radical" alt="kannanjayachandran" /></p> | ![kannanjayachandran's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kannanjayachandran&langs_count=8&hide=css,html&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
+ </h1>
+ 
   </body>
     
 </html>
