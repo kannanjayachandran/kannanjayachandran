@@ -1,13 +1,13 @@
 <html>
 
-<head> </head>
-
 <body>
 
 <h1 align="center">
+
 <a href="https://git.io/typing-svg">
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kannan....;Nice+to+meet+you!&center=true&size=30"/>
+
 </a>
 
 </h1> 
@@ -21,20 +21,24 @@
 
 </h4>
 
-<h2 style= align="center"><b><i>  My name is Kannan Jayachandran and I am a Computer Science Engineering student 
+<h2 style= align="center"><i>  My name is Kannan Jayachandran and I am a Computer Science Engineering student 
 From India specializing in Artificial Intelligence & Machine Learning. I am currently progressing through the third year of my Bachelor's degree in Technology program. My passion for learning new thigs and sharing my knowledge
 drives me to spend a great deal of time learning concepts
-of computer science in depth.  </i></b></h2>
+of computer science in depth.  </i>
+
+</h2>
 
 
-<h2 style="font-size: 120%" align="center"><b><i> My interests outside of Computer Science include reading Sci-Fi books,
- exploring Physics, and studying History.</i></b></h2>
+<h2 align="center"><i> My interests outside of Computer Science include reading Sci-Fi books,
+ exploring Physics, and studying History.</i>
+ 
+ </h2>
 
-<h2 style="font-size: 117%" align="center">I am currently learning AI - ML and DEVOPS.</h2>
+<h2 align="center"> <i>I am currently learning AI - ML and DEVOPS.</i> </h2>
 
  <br>
  
-<h1 align="center" style="font-size: 180%">
+<h1 align="center" >
 
 :fire: Technologies & Tools :fire:
 
