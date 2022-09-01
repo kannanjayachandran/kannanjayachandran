@@ -17,7 +17,7 @@
 
 <h4 align="center">
 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="5%"/>](https://twitter.com/kannanj362) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/kannan-j-976502223/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5%"/>](https://www.instagram.com/kannan.jayachandran/) &nbsp; <a href="mailto:kannanjayachandran3000@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="5%"/>](https://twitter.com/kannanj362) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/kannan-j-976502223/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5%"/>](https://www.instagram.com/kannan.jayachandran/) &nbsp; <a href="mailto:kannanjayachandran3000@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> 
 
 </h4>
 
