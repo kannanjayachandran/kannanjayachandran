@@ -54,13 +54,14 @@ of computer science in depth.  </i>
  
  <h1 align="center">
 :zap: Stats  :zap:
+
  </h1>
  
  <h1 align="center">
  
-| Github Stats                                                                                                                                                                                                                                                       | Top Languages                                                                                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kannanjayachandran&show_icons=true&theme=radical" alt="kannanjayachandran" /></p> | ![kannanjayachandran's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kannanjayachandran&langs_count=8&hide=css,html&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+|   Github Stats    |   Top Languages             |
+|    -----------    |   -----------------------   |
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kannanjayachandran&show_icons=true&theme=radical" alt="kannanjayachandran" /></p> | ![kannanjayachandran's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kannanjayachandran&langs_count=12&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
  </h1>
  
