@@ -6,14 +6,12 @@
 
 <a href="https://git.io/typing-svg">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kannan....;Nice+to+meet+you!&center=true&size=30"/>
-
-</a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kannan....;Nice+to+meet+you!&center=true&size=30"/>  </a>
 
 </h1> 
-    <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=kannanjayachandran&label=Profile%20views&color=0e75b6&style=flat"alt="kannanjayachandran"/>
-    </p>
+  
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=kannanjayachandran&label=Profile%20views&color=0e75b6&style=flat"alt="kannanjayachandran"/> </p>
 
 <h4 align="center">
 
@@ -28,15 +26,12 @@ of computer science in depth.  </i>
 
 </h2>
 
-
 <h2 align="center"><i> My interests outside of Computer Science include reading Sci-Fi books,
- exploring Physics, and studying History.</i>
- 
- </h2>
+ exploring Physics, and studying History.</i> </h2>
 
 <h2 align="center"> <i>I am currently learning AI - ML and DEVOPS.</i> </h2>
 
- <br>
+<br>
  
 <h1 align="center" >
 
@@ -53,9 +48,8 @@ of computer science in depth.  </i>
 &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="4%"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 &nbsp;[<img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" width="5%" />](https://www.r-project.org/other-docs.html) 
 &nbsp;[<img src="go.png" width="5%"/>](https://go.dev/doc/)
-
-
-    
+ 
+ 
 [<img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" width="4%"/>](https://numpy.org/doc/)
 &nbsp;[<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" width="4%"/>](https://pandas.pydata.org/)
 
@@ -64,10 +58,8 @@ of computer science in depth.  </i>
 &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" width="4%"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="5%"/>](https://devdocs.io/node/)
 &nbsp;
-
-    
-
-    
+  
+  
 [<img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="5%"/>](https://git-scm.com/doc)
 &nbsp;[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="5%"/>](https://docs.kernel.org/) 
 &nbsp;[<img src="https://img.icons8.com/fluency/48/000000/jupyter.png" width="5%"/>](https://docs.jupyter.org/en/latest/)
