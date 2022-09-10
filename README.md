@@ -57,7 +57,10 @@ of computer science in depth.  </i>
 [<img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" width="4%"/>](https://numpy.org/doc/)
 &nbsp;[<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" width="4%"/>](https://pandas.pydata.org/)
 
-    
+
+[<img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" width="4%"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+&nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" width="4%"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+&nbsp;
 
     
 [<img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="5%"/>](https://git-scm.com/doc)
