@@ -50,8 +50,10 @@ of computer science in depth.  </i>
 &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" width="4%"/>](https://devdocs.io/cpp/) 
 &nbsp;[<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" width="7%"/>](https://docs.oracle.com/en/java/) 
 &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="5%"/>](https://docs.python.org/3/) 
+&nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="4%"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 &nbsp;[<img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" width="5%" />](https://www.r-project.org/other-docs.html) 
-&nbsp;[<img src="go.png" width="5%"/>](https://go.dev/doc/) 
+&nbsp;[<img src="go.png" width="5%"/>](https://go.dev/doc/)
+
     
     
 [<img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" width="4%"/>](https://numpy.org/doc/)
