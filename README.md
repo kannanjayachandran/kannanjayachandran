@@ -54,7 +54,7 @@ of computer science in depth.  </i>
 &nbsp;[<img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" width="5%" />](https://www.r-project.org/other-docs.html) 
 &nbsp;[<img src="go.png" width="5%"/>](https://go.dev/doc/)
 
-    
+
     
 [<img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" width="4%"/>](https://numpy.org/doc/)
 &nbsp;[<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" width="4%"/>](https://pandas.pydata.org/)
@@ -64,6 +64,8 @@ of computer science in depth.  </i>
 &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" width="4%"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="5%"/>](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 &nbsp;
+
+    
 
     
 [<img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="5%"/>](https://git-scm.com/doc)
