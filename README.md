@@ -46,12 +46,12 @@ of computer science in depth.  </i>
  
 <div align="center" class="tools">
 
-[<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="7%"/>](https://devdocs.io/c/) 
-&nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" width="6%"/>](https://devdocs.io/cpp/) 
-&nbsp;[<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" width="9%"/>](https://docs.oracle.com/en/java/) 
-&nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="7%"/>](https://docs.python.org/3/) 
-&nbsp;[<img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" width="7%" />](https://www.r-project.org/other-docs.html) 
-&nbsp;[<img src="go.png" width="7%"/>](https://go.dev/doc/) 
+[<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="5%"/>](https://devdocs.io/c/) 
+&nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" width="4%"/>](https://devdocs.io/cpp/) 
+&nbsp;[<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" width="7%"/>](https://docs.oracle.com/en/java/) 
+&nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="5%"/>](https://docs.python.org/3/) 
+&nbsp;[<img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" width="5%" />](https://www.r-project.org/other-docs.html) 
+&nbsp;[<img src="go.png" width="5%"/>](https://go.dev/doc/) 
     
 
     
