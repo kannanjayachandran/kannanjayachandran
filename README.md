@@ -55,8 +55,9 @@ of computer science in depth.  </i>
     
 
     
-    
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="7%"/>](https://www.w3.org/TR/html5) &nbsp;[<img src="https://img.icons8.com/color/96/000000/google-cloud.png" width="7%" />](https://www.w3.org/TR/html5) &nbsp;[<img src="https://img.icons8.com/fluency/48/000000/jupyter.png" width="7%"/>](https://www.w3.org/TR/html5) &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="7%"/>](https://www.w3.org/TR/html5) &nbsp;
+[<img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="5%"/>](https://git-scm.com/doc)
+&nbsp;[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="5%"/>](https://docs.kernel.org/) 
+&nbsp;[<img src="https://img.icons8.com/fluency/48/000000/jupyter.png" width="5%"/>](https://docs.jupyter.org/en/latest/)&nbsp;
 
 </div>
 
