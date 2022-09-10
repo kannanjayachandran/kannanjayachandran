@@ -53,11 +53,19 @@ of computer science in depth.  </i>
 &nbsp;[<img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" width="5%" />](https://www.r-project.org/other-docs.html) 
 &nbsp;[<img src="go.png" width="5%"/>](https://go.dev/doc/) 
     
+    
+[<img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" width="4%"/>](https://numpy.org/doc/)
+&nbsp;[<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" width="4%"/>](https://pandas.pydata.org/)
+
+    
 
     
 [<img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="5%"/>](https://git-scm.com/doc)
 &nbsp;[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="5%"/>](https://docs.kernel.org/) 
-&nbsp;[<img src="https://img.icons8.com/fluency/48/000000/jupyter.png" width="5%"/>](https://docs.jupyter.org/en/latest/)&nbsp;
+&nbsp;[<img src="https://img.icons8.com/fluency/48/000000/jupyter.png" width="5%"/>](https://docs.jupyter.org/en/latest/)
+&nbsp;[<img src="https://github.com/get-icon/geticon/blob/master/icons/azure-icon.svg" width="5%"/>](https://docs.microsoft.com/en-us/azure/?product=popular)
+&nbsp;
+
 
 </div>
 
