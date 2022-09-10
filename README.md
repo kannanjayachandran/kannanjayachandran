@@ -62,7 +62,7 @@ of computer science in depth.  </i>
 
 [<img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" width="4%"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" width="4%"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-&nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="5%"/>](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+&nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="5%"/>](https://devdocs.io/node/)
 &nbsp;
 
     
@@ -72,6 +72,7 @@ of computer science in depth.  </i>
 &nbsp;[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="5%"/>](https://docs.kernel.org/) 
 &nbsp;[<img src="https://img.icons8.com/fluency/48/000000/jupyter.png" width="5%"/>](https://docs.jupyter.org/en/latest/)
 &nbsp;[<img src="https://github.com/get-icon/geticon/blob/master/icons/azure-icon.svg" width="5%"/>](https://docs.microsoft.com/en-us/azure/?product=popular)
+&nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" width="4%"/>](https://devdocs.io/node/)
 &nbsp;
 
 
