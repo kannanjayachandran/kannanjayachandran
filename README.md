@@ -65,7 +65,7 @@ of computer science in depth.  </i>
 
 <p align="center">
   <a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask" />
   </a>
 </p>
 
@@ -74,7 +74,7 @@ of computer science in depth.  </i>
 
 <p align="center">
   <a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=git,linux,latex,azure,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,linux,latex,azure,gcp,nodejs" />
   </a>
 </p>
 
