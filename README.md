@@ -12,12 +12,20 @@
   
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=kannanjayachandran&label=Profile%20views&color=0e75b6&style=flat"alt="kannanjayachandran"/> </p>
+    
+    
+    
 
-<h4 align="center">
-
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="5%"/>](https://twitter.com/kannanj362) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/kannan-j-976502223/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5%"/>](https://www.instagram.com/kannan.jayachandran/) &nbsp; <a href="mailto:kannanjayachandran3000@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> 
-
-</h4>
+<p align="center">
+  <a href="https://twitter.com/kannanj362">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+    <a href="https://www.linkedin.com/in/kannan-j-976502223/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <a href="https://www.instagram.com/kannan.jayachandran/">
+    <img src="https://skillicons.dev/icons?i=instagram" />    
+  </a>
+</p>
+    
 
 <h2 style= align="center"><i>  My name is Kannan Jayachandran and I am a Computer Science Engineering student 
 From India specializing in Artificial Intelligence & Machine Learning. I am currently progressing through the third year of my Bachelor's degree in Technology program. My passion for learning new thigs and sharing my knowledge
