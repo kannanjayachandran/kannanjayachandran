@@ -38,34 +38,43 @@ of computer science in depth.  </i>
 :fire: Technologies & Tools :fire:
 
 </h1>
+
+
  
 <div align="center" class="tools">
 
-[<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="5%"/>](https://devdocs.io/c/) 
-&nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" width="4%"/>](https://devdocs.io/cpp/) 
-&nbsp;[<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" width="7%"/>](https://docs.oracle.com/en/java/) 
-&nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="5%"/>](https://docs.python.org/3/) 
-&nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="4%"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-&nbsp;[<img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" width="5%" />](https://www.r-project.org/other-docs.html) 
-&nbsp;[<img src="go.png" width="5%"/>](https://go.dev/doc/)
+
+
  
+ 
+ <p align="center">
  
 [<img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" width="4%"/>](https://numpy.org/doc/)
 &nbsp;[<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" width="4%"/>](https://pandas.pydata.org/)
+    
+</p>
 
 
-[<img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" width="4%"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-&nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" width="4%"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-&nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="5%"/>](https://devdocs.io/node/)
-&nbsp;
-  
-  
-[<img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="5%"/>](https://git-scm.com/doc)
-&nbsp;[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="5%"/>](https://docs.kernel.org/) 
-&nbsp;[<img src="https://img.icons8.com/fluency/48/000000/jupyter.png" width="5%"/>](https://docs.jupyter.org/en/latest/)
-&nbsp;[<img src="https://github.com/get-icon/geticon/blob/master/icons/azure-icon.svg" width="5%"/>](https://docs.microsoft.com/en-us/azure/?product=popular)
-&nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" width="4%"/>](https://devdocs.io/node/)
-&nbsp;
+<p align="center">
+  <a href="https://github.com/kannanjayachandran">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+  </a>
+</p>
+
+
+
+
+<p align="center">
+  <a href="https://github.com/kannanjayachandran">
+    <img src="https://skillicons.dev/icons?i=git,linux,latex,azure,nodejs" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kannanjayachandran">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,r,go" />
+  </a>
+</p>
 
 
 </div>
