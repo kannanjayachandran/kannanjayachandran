@@ -51,11 +51,16 @@ of computer science in depth.  </i>
  
 <div align="center" class="tools">
 
-
-
+ 
+ <p align="center">
  
  
  <p align="center">
+  <a href="https://github.com/kannanjayachandran">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,r,go" />
+  </a>
+</p>
+ 
  
 [<img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" width="4%"/>](https://numpy.org/doc/)
 &nbsp;[<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" width="4%"/>](https://pandas.pydata.org/)
@@ -74,15 +79,11 @@ of computer science in depth.  </i>
 
 <p align="center">
   <a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=git,linux,latex,azure,gcp,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,linux,latex,azure,gcp,nodejs,heroku,vim" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,r,go" />
-  </a>
-</p>
+
 
 
 </div>
