@@ -57,7 +57,7 @@ of computer science in depth.  </i>
  
  <p align="center">
   <a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,r,go" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,r,go,swift" />
   </a>
 </p>
  
