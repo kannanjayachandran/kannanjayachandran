@@ -62,8 +62,8 @@ of computer science in depth.  </i>
 </p>
  
  
-[<img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" width="4%"/>](https://numpy.org/doc/)
-&nbsp;[<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" width="4%"/>](https://pandas.pydata.org/)
+[<img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" width="5%"/>](https://numpy.org/doc/)
+&nbsp;[<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" width="5%"/>](https://pandas.pydata.org/)
     
 </p>
 
