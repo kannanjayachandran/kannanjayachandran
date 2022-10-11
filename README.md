@@ -35,8 +35,8 @@ of computer science in depth. </i>
 </h2>
 <br>
 
-<h2 align="center"><i>" My interests outside of Computer Science include reading Sci-Fi books,
- exploring Physics, and studying History. "</i> </h2>
+<h2 align="center"><i> My interests outside of Computer Science include reading Sci-Fi books,
+ exploring Physics, and studying History. </i> </h2>
 
 <h2 align="center"> <i>I am currently learning AI - ML and DEVOPS.</i> </h2>
 
