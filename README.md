@@ -58,11 +58,11 @@ of computer science in depth. I'm looking forward to pursue a career in data sci
   </a>
 </p>
 
-<p align="center">
+<h1 align="center">
   <a href="https://github.com/kannanjayachandran">
     <img src="https://skillicons.dev/icons?i=git,linux,latex,azure,gcp,nodejs,heroku,vim" />
   </a>
-</p>
+    </h1>
 
 </div>
 
