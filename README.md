@@ -32,6 +32,7 @@ of computer science in depth. I'm looking forward to pursue a career in data sci
  
 <h1 align="center" >
 
+  
 :fire: Technologies & Tools :fire:
 
 </h1>
