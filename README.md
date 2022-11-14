@@ -28,6 +28,7 @@ of computer science in depth. I'm looking forward to pursue a career in data sci
 <h2 align="center"><i> My interests outside of Computer Science include reading Sci-Fi books,
  exploring Physics, and studying History. I am currently learning Data Science & Machine Learning </i> </h2>
 
+    
 <br>
  
 <h1 align="center" >
