@@ -17,6 +17,7 @@
   </a>
 </p>
     
+    
 <h2 style= align="center"><i>  My name is Kannan Jayachandran and I am a Computer Science Engineering student 
 From India specializing in Artificial Intelligence & Machine Learning. I am currently in the prefinal year of my Bachelor's degree in Technology program. My passion for learning new things and sharing my knowledge
 drives me to spend a great deal of time learning concepts
