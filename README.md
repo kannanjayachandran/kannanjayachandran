@@ -24,7 +24,8 @@ drives me to spend a great deal of time learning concepts
 of computer science in depth. I'm looking forward to pursue a career in data science and machine learning. </i>
 
 </h2>
-    
+   
+   
 <h2 align="center"><i> My interests outside of Computer Science include reading Sci-Fi books,
  exploring Physics, and studying History. I am currently learning Data Science & Machine Learning </i> </h2>
     
