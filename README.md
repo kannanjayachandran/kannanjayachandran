@@ -47,6 +47,7 @@ of computer science in depth. I'm looking forward to pursue a career in data sci
   </a>
 </p>
  
+  
 [<img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" width="5%"/>](https://numpy.org/doc/)
 &nbsp;[<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" width="5%"/>](https://pandas.pydata.org/)
     
