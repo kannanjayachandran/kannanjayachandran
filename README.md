@@ -41,7 +41,7 @@ of computer science in depth. I'm looking forward to pursue a career in data sci
  
  <p align="center">
   <a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,go,r" />
   </a>
 </p>
  
