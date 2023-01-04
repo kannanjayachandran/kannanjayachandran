@@ -17,15 +17,22 @@
   </a>
 </p>   
     
-<h2 style= align="center"><i>  My name is Kannan Jayachandran and I am a Computer Science Engineering student 
-From India specializing in Artificial Intelligence & Machine Learning. I am currently in the prefinal year of my Bachelor's degree in Technology program. My passion for learning new things and sharing my knowledge
+    
+<h2 style= align="center">  My name is Kannan Jayachandran and I am a Computer Science Engineering student 
+  From India specializing in <i> Artificial Intelligence & Machine Learning.</i> 
+  
+  </h2>
+    
+<h2 style= align="center">
+  I am currently in the prefinal year of my Bachelor's degree in Technology program. My passion for learning new things and sharing my knowledge
 drives me to spend a great deal of time learning concepts
-of computer science in depth. I'm looking forward to pursue a career in data science and machine learning. </i>
+of computer science in depth. I'm looking forward to pursue a career in data science and machine learning. 
+  </h2>
+    
 
-</h2>
      
-<h2 align="center"><i> My interests outside of Computer Science include reading Sci-Fi books,
- exploring Physics, and studying History. I am currently learning Data Science & Machine Learning </i> </h2>
+<h2 align="center"> My interests outside of Computer Science include reading Sci-Fi books,
+ exploring Physics, and studying History. I am currently learning Data Science & Machine Learning  </h2>
     
 <br>
  
