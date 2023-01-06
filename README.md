@@ -3,6 +3,8 @@
 ![Typing emoji](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kannan....;Nice+to+meet+you!&center=true&size=30)
 
 </h1> 
+
+
   
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=kannanjayachandran&label=Profile%20views&color=0e75b6&style=flat"alt="kannanjayachandran"/> </p> 
