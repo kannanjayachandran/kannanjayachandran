@@ -64,6 +64,7 @@ of computer science in depth. I'm looking forward to pursue a career in data sci
   <a href="https://github.com/kannanjayachandran">
     <img src="https://skillicons.dev/icons?i=git,linux,latex,azure,gcp,nodejs,heroku,vim" />
   </a>
+  
     </h1>
 
 </div>
@@ -82,3 +83,5 @@ of computer science in depth. I'm looking forward to pursue a career in data sci
 | ![kannanjayachandran's readme stats](https://github-readme-stats.vercel.app/api?username=kannanjayachandran&theme=radical&count_private=true&include_all_commits=true&show_icons=true) | ![kannanjayachandran's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kannanjayachandran&hide=CSS,HTML,jupyter%20notebook&langs_count=10&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&card_width=400)|
 
  </h1>
+
+    </h1
