@@ -35,6 +35,8 @@ of computer science in depth. I'm looking forward to pursue a career in data sci
  exploring Physics, and studying History. I am currently learning Data Science & Machine Learning  </h2>
 
 <br>
+      
+      
 
 <h1 align="center" >
 
