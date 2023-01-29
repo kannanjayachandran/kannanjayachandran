@@ -52,7 +52,7 @@ Outside of my field of study, I am interested in reading science fiction literat
 [<img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" width="5%"/>](https://numpy.org/doc/)
 &nbsp;[<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" width="5%"/>](https://pandas.pydata.org/)&nbsp;<a href="https://github.com/kannanjayachandran">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  </a>
+  </a>&nbsp;[<img src="./logo_dark.svg" width="12%"/>](https://matplotlib.org/stable/)
 
 </p>
 
