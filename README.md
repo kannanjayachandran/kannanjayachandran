@@ -4,9 +4,6 @@
 
 </h1>
 
-
-
-
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=kannanjayachandran&label=Profile%20views&color=0e75b6&style=flat"alt="kannanjayachandran"/> </p>
 
@@ -20,19 +17,14 @@
   </a>
 </p>
 
-<h2 style= align="center">  My name is Kannan Jayachandran and I am a Computer Science Engineering student
-  From India specializing in <i> Artificial Intelligence & Machine Learning.</i>
-  
+<h2 style= align="center"> I am Kannan Jayachandran, a Computer Science Engineering student from India specializing in Artificial Intelligence and Machine Learning. I am currently in the pre-final year of my Bachelor of Technology program. My passion for learning new concepts and staying ahead of the curve in this rapidly evolving field drives me to spend a significant amount of time studying computer science in depth. I am eager to pursue a career in data science and machine learning.
   </h2>
 
 <h2 style= align="center">
-  I am currently in the prefinal year of my Bachelor's degree in Technology program. My passion for learning new things and sharing my knowledge
-drives me to spend a great deal of time learning concepts
-of computer science in depth. I'm looking forward to pursue a career in data science and machine learning.
-  </h2>
+Outside of my field of study, I am interested in reading science fiction literature, exploring physics, and studying history. I am currently expanding my knowledge in the field of Data Science and Machine Learning, Mathematics, Programming, etc., to pursue a career in Data science and machine learning.
 
-<h2 align="center"> My interests outside of Computer Science include reading Sci-Fi books,
- exploring Physics, and studying History. I am currently learning Data Science & Machine Learning  </h2>
+</h2>
+
 
 <br>
       
@@ -50,12 +42,17 @@ of computer science in depth. I'm looking forward to pursue a career in data sci
 
  <p align="center">
   <a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,go,r" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,go,r,js,ts" />
   </a>
 </p>
 
+    
+ <p align="center">
+     
 [<img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" width="5%"/>](https://numpy.org/doc/)
-&nbsp;[<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" width="5%"/>](https://pandas.pydata.org/)
+&nbsp;[<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" width="5%"/>](https://pandas.pydata.org/)&nbsp;<a href="https://github.com/kannanjayachandran">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  </a>
 
 </p>
 
