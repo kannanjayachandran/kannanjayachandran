@@ -50,21 +50,21 @@ Outside of my field of study, I am interested in reading science fiction literat
  <p align="center">
      
 [<img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" width="5%"/>](https://numpy.org/doc/)
-&nbsp;[<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" width="5%"/>](https://pandas.pydata.org/)&nbsp;<a href="https://github.com/kannanjayachandran">
+&nbsp;[<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" width="4%"/>](https://pandas.pydata.org/)&nbsp;[<img src="./logo_dark.svg" width="12%"/>](https://matplotlib.org/stable/)&nbsp;[<img src="./scikit-learn-logo-small.png" width="12%"/>](https://scikit-learn.org/stable/)&nbsp;<a href="https://github.com/kannanjayachandran">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  </a>&nbsp;[<img src="./logo_dark.svg" width="12%"/>](https://matplotlib.org/stable/)
+  </a>
 
 </p>
 
 <p align="center">
   <a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask,nodejs" />
   </a>
 </p>
 
 <h1 align="center">
   <a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=git,linux,latex,azure,gcp,nodejs,heroku,vim" />
+    <img src="https://skillicons.dev/icons?i=git,linux,azure,gcp,vim" />
   </a>
   
     
