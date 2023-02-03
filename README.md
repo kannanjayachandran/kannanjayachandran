@@ -83,7 +83,7 @@ Outside of my field of study, I am interested in reading science fiction literat
 
 | Github Stats | Top Languages |
 | --- | --- |
-| ![kannanjayachandran's readme stats](https://github-readme-stats.vercel.app/api?username=kannanjayachandran&include_all_commits=true&theme=radical&count_private=true&show_icons=true) | ![kannanjayachandran's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kannanjayachandran&hide=CSS,HTML,jupyter%20notebook&langs_count=12&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&card_width=400)|
+| ![kannanjayachandran's readme stats](https://github-readme-stats.vercel.app/api?username=kannanjayachandran&include_all_commits=true&theme=radical&count_private=true&show_icons=true) | ![kannanjayachandran's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kannanjayachandran&hide=CSS,HTML,jupyter%20notebook,c&langs_count=20&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&card_width=400)|
 
 
 </h1>
