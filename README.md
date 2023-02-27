@@ -23,7 +23,7 @@
   </h2>
 
 <h2 style= align="center">
-Outside of my field of study, I am interested in reading science fiction literature, exploring physics, and studying history. I am currently expanding my knowledge in the field of Data Science and Machine Learning, Mathematics, Programming, etc., to pursue a career in Data science and machine learning.
+Outside of my field of study, I am interested in reading science fiction literature, exploring physics, and studying history. I am currently expanding my knowledge in the field of Data Science and Machine Learning, Mathematics, Programming, etc.
 
 </h2>
 
