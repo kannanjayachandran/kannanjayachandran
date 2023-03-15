@@ -1,18 +1,9 @@
 <h1 align="center">
-
-![Typing emoji](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kannan....;Nice+to+meet+you!&center=true&size=30)
-
-</h1>
-
-
-
-
-
-
-
-
+    
+Hi, I am Kannan 🧑‍💻
+    
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=kannanjayachandran&label=Profile%20views&color=0e75b6&style=flat"alt="kannanjayachandran"/> </p>
+ <img src="https://komarev.com/ghpvc/?username=kannanjayachandran&label=Profile%20views&color=0e75b6&style=flat"alt="kannanjayachandran"/> </p>
 
 <p align="center">
   <a href="https://twitter.com/kannanj362">
@@ -24,18 +15,26 @@
   </a>
 </p>
 
-<h2 style= align="center"> I am Kannan Jayachandran, a Computer Science Engineering student from India specializing in Artificial Intelligence and Machine Learning. I am currently in the pre-final year of my Bachelor of Technology program. My passion for learning new concepts and staying ahead of the curve in this rapidly evolving field drives me to spend a significant amount of time studying computer science in depth. I am eager to pursue a career in data science and machine learning.
-  </h2>
-
-<h2 style= align="center">
-Outside of my field of study, I am interested in reading science fiction literature, exploring physics, and studying history. I am currently expanding my knowledge in the field of Data Science and Machine Learning, Mathematics, Programming, etc.
-
-</h2>
+</h1>
 
 
-<br>
-      
-      
+
+<h3 align="left">
+
+🧑‍💻I am Kannan Jayachandran, a Computer Science Engineering student from India specializing in Artificial Intelligence and Machine Learning. Currently in the pre-final year of my Bachelor of Technology program.
+    <br />
+    <br />
+🏌️‍♂️I am currently working on imporving my programming skills to become a full-stack data scientist.
+    <br />
+    <br />
+🧩 Other than computer science, I am interested in reading science fiction literature, exploring physics, and studying history. 
+    <br />
+    <br />
+🌀 I am currently expanding my knowledge in the field of Data Science and Machine Learning, Mathematics, Programming, etc.
+        <br />
+        <br /> 
+
+</h3>  
 
 <h1 align="center" >
 
