@@ -27,12 +27,18 @@ Hi, I am Kannan 🧑‍💻
 ♂️I am currently working on imporving my programming skills to become a _full-stack data scientist_ 🧑‍🔬.
     <br />
     <br />
-🧩 Other than computer science, I am interested in reading science fiction literature 👾, exploring physics 💫, and studying history 📜. 
+🧩 Other than computer science, I am interested in reading science fiction literature 👾  exploring physics 💫, and studying history 📜. 
     <br />
     <br />
 🌀 I am currently expanding my knowledge in the field of Data Science and Machine Learning, Mathematics, Programming, etc.
         <br />
         <br /> 
+    
+  Achievement <br />
+    
+[Micorsoft Certified Data Scientist Associate](https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url)
+    
+[Data Engineering and Machine learning on GCP](https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945)
 
 </h2>  
 
