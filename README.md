@@ -36,10 +36,11 @@ I am currently working on improving my programming skills to become a _full-stac
     
   Achievement 
   <br />
-<a href="https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url"> <img src="./Mcerti.png" />
+    
+<a href="https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url"><img src="./Mcerti.png" />  
 </a>
 
-<a href="https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945"> <img src="./gcp.png " width="115" height="115"/>
+<a href="https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945"><img src="./gcp.png" width="115" height="115"/>
 </a>
 
 </h2>  
