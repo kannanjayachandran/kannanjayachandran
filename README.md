@@ -19,22 +19,22 @@ Hi, I am Kannan 🧑‍💻
 
 
 
-<h3 align="left">
+<h2 align="left">
 
-🧑‍💻I am Kannan Jayachandran, a Computer Science Engineering student from India specializing in Artificial Intelligence and Machine Learning. Currently in the pre-final year of my Bachelor of Technology program.
+🧑‍💻I am Kannan Jayachandran, a Computer Science Engineering student from India specializing in Artificial Intelligence and Machine Learning. Currently in the pre-final year of my Bachelor of Technology program (**CSE AI/ML**).
     <br />
     <br />
-🏌️‍♂️I am currently working on imporving my programming skills to become a full-stack data scientist.
+♂️I am currently working on imporving my programming skills to become a _full-stack data scientist_ 🧑‍🔬.
     <br />
     <br />
-🧩 Other than computer science, I am interested in reading science fiction literature, exploring physics, and studying history. 
+🧩 Other than computer science, I am interested in reading science fiction literature 👾, exploring physics 💫, and studying history 📜. 
     <br />
     <br />
 🌀 I am currently expanding my knowledge in the field of Data Science and Machine Learning, Mathematics, Programming, etc.
         <br />
         <br /> 
 
-</h3>  
+</h2>  
 
 <h1 align="center" >
 
