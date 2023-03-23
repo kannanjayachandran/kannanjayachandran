@@ -24,7 +24,7 @@ Hi, I am Kannan 🧑‍💻
 🧑‍💻I am Kannan Jayachandran, a Computer Science Engineering student from India specializing in Artificial Intelligence and Machine Learning. Currently in the pre-final year of my Bachelor of Technology program (**CSE AI/ML**).
     <br />
     <br />
-♂️I am currently working on imporving my programming skills to become a _full-stack data scientist_ 🧑‍🔬.
+I am currently working on improving my programming skills to become a _full-stack data scientist_ 🧑‍🔬.
     <br />
     <br />
 🧩 Other than computer science, I am interested in reading science fiction literature 👾  exploring physics 💫, and studying history 📜. 
@@ -34,11 +34,13 @@ Hi, I am Kannan 🧑‍💻
         <br />
         <br /> 
     
-  Achievement <br />
-    
-[Micorsoft Certified Data Scientist Associate](https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url)
-    
-[Data Engineering and Machine learning on GCP](https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945)
+  Achievement 
+  <br />
+<a href="https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url"> <img src="./Mcerti.png" />
+</a>
+
+<a href="https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945"> <img src="./gcp.png " width="115" height="115"/>
+</a>
 
 </h2>  
 
