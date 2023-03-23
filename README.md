@@ -33,17 +33,28 @@ I am currently working on improving my programming skills to become a _full-stac
 🌀 I am currently expanding my knowledge in the field of Data Science and Machine Learning, Mathematics, Programming, etc.
         <br />
         <br /> 
-    
-  Achievement 
-  <br />
-    
-<a href="https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url"><img src="./Mcerti.png" />  
-</a>
 
+</h2>  
+
+<h2 align="center">
+
+Achievement 
+
+</h2>
+
+<br />
+  
+<h3>Microsoft Certified Azure Data Scientist Associative</h3>
+
+<a href="https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url"><img src="./MCerti.png" />  
+</a>
+<br />
+
+<h3>Data Engineering and Machine Learning on GCP</h3>
 <a href="https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945"><img src="./gcp.png" width="115" height="115"/>
 </a>
 
-</h2>  
+
 
 <h1 align="center" >
 
