@@ -17,8 +17,6 @@ Hi, I am Kannan 🧑‍💻
 
 </h1>
 
-
-
 <h2 align="left">
 
 🧑‍💻I am Kannan Jayachandran, a Computer Science Engineering student from India specializing in Artificial Intelligence and Machine Learning. Currently in the pre-final year of my Bachelor of Technology program (**CSE AI/ML**).
