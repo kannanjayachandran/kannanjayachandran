@@ -91,8 +91,6 @@ Achievement 🏆
     <img src="https://skillicons.dev/icons?i=git,linux,azure,gcp,vim" />
   </a>
   
-    
-    
 
 </div>
 
