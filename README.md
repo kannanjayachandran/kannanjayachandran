@@ -1,11 +1,13 @@
 <h1 align="center">
     
-Hi, I am Kannan 🧑‍💻
+Hello; Welcome 👋
     
     
     
 <p align="right">
  <img src="https://komarev.com/ghpvc/?username=kannanjayachandran&label=Profile%20views&color=0e75b6&style=flat"alt="kannanjayachandran"/> </p>
+ 
+ ![](./Header.png)
 
 <p align="center">
   <a href="https://twitter.com/kannanj362">
@@ -21,30 +23,17 @@ Hi, I am Kannan 🧑‍💻
 
 <h2 align="left">
 
-🧑‍💻I am Kannan Jayachandran, a Computer Science Engineering student from India specializing in Artificial Intelligence and Machine Learning. Currently in the pre-final year of my Bachelor of Technology program (**CSE AI/ML**).
-    <br />
-    <br />
-I am currently working on improving my programming skills to become a _full-stack data scientist_ 🧑‍🔬.
-    <br />
-    <br />
-🧩 Other than computer science, I am interested in reading science fiction literature 👾  exploring physics 💫, and studying history 📜. 
-    <br />
-    <br />
-🌀 I am currently expanding my knowledge in the field of Data Science and Machine Learning, Mathematics, Programming, etc.
-        <br />
-        <br /> 
+I am Kannan Jayachandran, a Computer Science Engineering student from India specializing in Artificial Intelligence and Machine Learning. Currently in the pre-final year of my Bachelor of Technology program (**CSE AI/ML**). I am currently expanding my knowledge in the field of Data Science and Machine Learning, Mathematics, Programming, etc. Other than computer science, I am interested in reading science fiction literature exploring physics, and studying history.
+
+
 
 </h2>  
 
-<h2 align="center">
-
-Achievement 🏆
-
-</h2>
+<h1 align="center"> Achievement 🏆 </h1>
 
 <br />
   
-<!-- <h3>Microsoft Certified Azure Data Scientist Associative</h3>
+<h3 >Microsoft Certified Azure Data Scientist Associative</h3>
 
 <a href="https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url"><img src="./MCerti.png" />  
 </a>
@@ -52,7 +41,7 @@ Achievement 🏆
 
 <h3>Data Engineering and Machine Learning on GCP</h3>
 <a href="https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945"><img src="./gcp.png" width="115" height="115"/>
-</a> -->
+</a> 
 
 
 
