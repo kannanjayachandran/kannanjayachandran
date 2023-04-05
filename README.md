@@ -32,19 +32,14 @@ I am Kannan Jayachandran, a Computer Science Engineering student from India spec
 <h1 align="center"> Achievement 🏆 </h1>
 
 <br />
+    
+![](./MCerti.png)
+<img src="./gcp.png" width="250">
+    
+[Microsoft Certified Azure Data Scientist Associative](https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url)
+    
+[Data Engineering and Machine Learning on GCP](https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945)
   
-<h3 >Microsoft Certified Azure Data Scientist Associative</h3>
-
-<a href="https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url"><img src="./MCerti.png" />  
-</a>
-<br />
-
-<h3>Data Engineering and Machine Learning on GCP</h3>
-<a href="https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945"><img src="./gcp.png" width="115" height="115"/>
-</a> 
-
-
-
 
 <h1 align="center" >
 
