@@ -23,8 +23,6 @@ Hello; Welcome 👋
 
 I am Kannan Jayachandran, a Computer Science Engineering student from India specializing in Artificial Intelligence and Machine Learning. Currently in the pre-final year of my Bachelor of Technology program (**CSE AI/ML**). I am currently expanding my knowledge in the field of Data Science and Machine Learning, Mathematics, Programming, etc. Other than computer science, I enjoy reading science fiction literature exploring physics, and studying history.
 
-
-
 </h2>  
 
 <h1 align="center"> Achievement 🏆 </h1>
