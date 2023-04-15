@@ -84,7 +84,6 @@ I am Kannan Jayachandran, a Computer Science Engineering student from India spec
 
  </h1>
 
-    
  <h1 align="center">
 
 | Github Stats | Top Languages |
