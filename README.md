@@ -38,7 +38,7 @@ I am Kannan Jayachandran, a Computer Science Engineering student from India spec
 [Microsoft Certified Azure Data Scientist Associative](https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url)
     
 [Data Engineering and Machine Learning on GCP](https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945)
-  
+ 
 
 <h1 align="center" >
 
@@ -77,7 +77,6 @@ I am Kannan Jayachandran, a Computer Science Engineering student from India spec
     <img src="https://skillicons.dev/icons?i=git,linux,azure,gcp,vim" />
   </a>
   
-
 </div>
 
  <br>
@@ -92,6 +91,5 @@ I am Kannan Jayachandran, a Computer Science Engineering student from India spec
 | Github Stats | Top Languages |
 | --- | --- |
 | ![kannanjayachandran's readme stats](https://github-readme-stats.vercel.app/api?username=kannanjayachandran&include_all_commits=true&theme=radical&count_private=true&show_icons=true) | ![kannanjayachandran's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kannanjayachandran&hide=CSS,HTML,jupyter%20notebook,c&langs_count=20&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&card_width=400)|
-
 
 </h1>
