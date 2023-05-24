@@ -39,7 +39,6 @@ I am Kannan Jayachandran, a Computer Science Engineering student from India spec
     
 [Data Engineering and Machine Learning on GCP](https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945)
  
-
 <h1 align="center" >
 
 :fire: Technologies & Tools :fire:
@@ -55,7 +54,6 @@ I am Kannan Jayachandran, a Computer Science Engineering student from India spec
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,go,r,js,ts" />
   </a>
 </p>
-
     
  <p align="center">
      
