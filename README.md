@@ -76,7 +76,6 @@ I am Kannan Jayachandran, a Computer Science Engineering student from India spec
   </a>
   
 </div>
-
  <br>
 
  <h1 align="center">
