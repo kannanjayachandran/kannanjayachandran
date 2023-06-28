@@ -21,16 +21,17 @@ Hello; 👋 Welcome
 
     
     
-<h2 align="left">
+<h3 align="left">
 
-I am Kannan Jayachandran, a Computer Science Engineering student from India specializing in Artificial Intelligence and Machine Learning. Currently in the pre-final year of my Bachelor of Technology program (**CSE AI/ML**). I am currently expanding my knowledge in the field of Data Science and Machine Learning, Mathematics, Programming, etc. Other than computer science, I enjoy reading science fiction literature exploring physics, and studying history.
+I am Kannan Jayachandran, a Computer Science Engineering student from India specializing in *Artificial Intelligence and Machine Learning*. Currently in the final year of my B.Tech program (**CSE AI/ML**). 
+I am currently expanding my knowledge in the field of Data Science and Machine Learning, Mathematics, Programming, etc. Other than computer science, I enjoy reading science fiction literature exploring physics, and studying history.
 
-</h2>  
+</h3>  
 
 <h1 align="center"> Achievement 🏆 </h1>
 
-    
-<br />
+
+<h3 align="center">
     
 ![](./MCerti.png)
 <img src="./gcp.png" width="250">
@@ -38,6 +39,10 @@ I am Kannan Jayachandran, a Computer Science Engineering student from India spec
 [Microsoft Certified Azure Data Scientist Associative](https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url)
     
 [Data Engineering and Machine Learning on GCP](https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945)
+
+</h3>
+
+<br />
  
 <h1 align="center" >
 
@@ -51,7 +56,7 @@ I am Kannan Jayachandran, a Computer Science Engineering student from India spec
 
  <p align="center">
   <a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,go,r,js,ts" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,go,r" />
   </a>
 </p>
     
@@ -66,13 +71,13 @@ I am Kannan Jayachandran, a Computer Science Engineering student from India spec
 
 <p align="center">
   <a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite,nextjs,flask,nodejs" />
   </a>
 </p>
 
 <h1 align="center">
   <a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=git,linux,azure,gcp,vim" />
+    <img src="https://skillicons.dev/icons?i=linux,git,docker,mongodb,mysql,azure,gcp" />
   </a>
   
 </div>
