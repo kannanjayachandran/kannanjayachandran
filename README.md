@@ -21,7 +21,7 @@ Hello; 👋 Welcome
 
 - 📍Based in **India**
 - 🎓Pursuing **B.Tech Computer Science Engineering Degreee** with specialization in **Artificial Intelligence and Machine learning.** _(Final Year)_
-- 💻 Currently learning Machine learning Operations and Advanced Mathematics
+- 💻 Currently learning **Machine learning Operations** and **Advanced Mathematics**
     
 
 
