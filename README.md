@@ -35,7 +35,7 @@
 
  <p align="center">
   <a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,go,r" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,go" />
   </a>
 </p>
     
@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite,nextjs,flask,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite,nextjs,flask,django,nodejs,express" />
   </a>
 </p>
 
