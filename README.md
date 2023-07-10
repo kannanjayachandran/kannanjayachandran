@@ -1,9 +1,6 @@
 <h1 align="center">
     
-Hello; 👋 Welcome
-    
 <p align="right">
- <img src="https://komarev.com/ghpvc/?username=kannanjayachandran&label=Profile%20views&color=0e75b6&style=flat"alt="kannanjayachandran"/> </p>
  
  ![](./Header.png)
 
@@ -16,30 +13,15 @@ Hello; 👋 Welcome
     <img src="https://skillicons.dev/icons?i=instagram" width="4%"/>
   </a>
 </p>
-
+<img src="https://komarev.com/ghpvc/?username=kannanjayachandran&label=Profile%20views&color=0e75b6&style=flat"alt="kannanjayachandran"/> </p>
 </h1>
 
 - 📍Based in **India**
 - 🎓Pursuing **B.Tech Computer Science Engineering Degreee** with specialization in **Artificial Intelligence and Machine learning.** _(Final Year)_
-- 💻 Currently learning **Machine learning Operations** and **Advanced Mathematics**
+- 💻 Currently learning **Full stack Data science** and **Machine learning Operations** along with **Advanced Mathematics**
+- 🏆 [Microsoft Certified Azure Data Scientist Associative](https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url) - [Data Engineering and Machine Learning on GCP](https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945)
     
-
-
-<h1 align="center"> Achievement 🏆 </h1>
-
-
-<h3 align="center">
-    
-![](./MCerti.png)
-<img src="./gcp.png" width="250">
-    
-[Microsoft Certified Azure Data Scientist Associative](https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url)
-    
-[Data Engineering and Machine Learning on GCP](https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945)
-
-</h3>
-
-<br />
+<br>
  
 <h1 align="center" >
 
