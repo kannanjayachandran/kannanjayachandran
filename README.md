@@ -1,8 +1,6 @@
 <h1 align="center">
     
 <p align="right">
- 
- ![](./Header.png)
 
 <p align="center">
   <a href="https://twitter.com/kannanj362">
