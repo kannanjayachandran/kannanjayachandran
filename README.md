@@ -7,8 +7,6 @@
   <img src="https://skillicons.dev/icons?i=twitter" width="4%"/>
     <a href="https://www.linkedin.com/in/kannan-j-976502223/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="4%"/>
-    <a href="https://www.instagram.com/kannan.jayachandran/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="4%"/>
   </a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=kannanjayachandran&label=Profile%20views&color=0e75b6&style=flat"alt="kannanjayachandran"/> </p>
