@@ -14,7 +14,7 @@
 
 - 📍Based in **India**
 - 🎓Pursuing **B.Tech Computer Science Engineering Degreee** with specialization in **Artificial Intelligence and Machine learning.** _(Final Year)_
-- 💻 Currently learning **Full stack Data science** and **Machine learning Operations** along with **Advanced Mathematics**
+- 💻 Currently learning **Full stack Data science** and **Machine learning Operations** 
 - 🏆 [Microsoft Certified Azure Data Scientist Associative](https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url) - [Data Engineering and Machine Learning on GCP](https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945)
     
 <br>
