@@ -26,7 +26,7 @@
     
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,go" />
   
-<img src="./np.svg" width="5%"/>&nbsp;<img src="./pd.svg" width="5%"/>&nbsp;&nbsp;<img src="./sk.svg" width="5%"/>&nbsp;<img src="./logo_dark.svg" width="10%"/>&nbsp;<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+<img src="./np.svg" width="5%"/>&nbsp;<img src="./pd.svg" width="5%"/>&nbsp;&nbsp;<img src="./sk.svg" width="5%"/>&nbsp;<img src="./logo_dark.svg" width="12%"/>&nbsp;<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 
 <img src="https://skillicons.dev/icons?i=html,css,react,vite,nextjs,nodejs,express" /><br>
 
