@@ -35,4 +35,4 @@
 </a>
 
 [<img src="./np.svg" width="5%"/>](https://numpy.org/doc/)
-&nbsp;[<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" width="3%"/>](https://pandas.pydata.org/)&nbsp;[<img src="./logo_dark.svg" width="8%"/>](https://matplotlib.org/stable/)&nbsp;[<img src="./scikit-learn-logo-small.png" width="8%"/>](https://scikit-learn.org/stable/)&nbsp;<a href="https://github.com/kannanjayachandran">
+&nbsp;[<img src="./pd.svg" width="5%"/>](https://pandas.pydata.org/)&nbsp;[<img src="./logo_dark.svg" width="8%"/>](https://matplotlib.org/stable/)&nbsp;[<img src="./scikit-learn-logo-small.png" width="8%"/>](https://scikit-learn.org/stable/)&nbsp;<a href="https://github.com/kannanjayachandran">
