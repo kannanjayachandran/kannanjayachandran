@@ -22,17 +22,16 @@
  
 <h1 align="center" >Technologies & Tools </h1>
 
-<a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,go" />
-</a>
+<div align="center">
+    
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,go" />
+  
+<img src="./np.svg" width="5%"/>&nbsp;<img src="./pd.svg" width="5%"/>&nbsp;&nbsp;<img src="./sk.svg" width="5%"/>&nbsp;<img src="./logo_dark.svg" width="10%"/>&nbsp;<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 
-<a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,django,linux,git" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,nextjs,nodejs,express" /><br>
 
-<a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,postgres,azure,gcp,html,css,bootstrap,react,vite,nextjs,nodejs,express" />
-</a>
+<img src="https://skillicons.dev/icons?i=flask,django,mysql,postgres,mongodb,redis,linux" /><br>
 
-[<img src="./np.svg" width="5%"/>](https://numpy.org/doc/)
-&nbsp;[<img src="./pd.svg" width="5%"/>](https://pandas.pydata.org/)&nbsp;[<img src="./logo_dark.svg" width="8%"/>](https://matplotlib.org/stable/)&nbsp;[<img src="./scikit-learn-logo-small.png" width="8%"/>](https://scikit-learn.org/stable/)&nbsp;<a href="https://github.com/kannanjayachandran">
+<img src="https://skillicons.dev/icons?i=git,docker,azure,gcp,aws,kafka,githubactions" />
+
+</div>
