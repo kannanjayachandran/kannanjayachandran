@@ -16,6 +16,7 @@
 - 🎓Pursuing **B.Tech Computer Science Engineering Degreee** (Final year); with specialization in **Artificial Intelligence and Machine learning.** 
 - 💻 Currently learning and working on **Machine learning Operations** and **Full stack Data science**. 
 - 🏆 [Microsoft Certified Azure Data Scientist Associative](https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url) - [Data Engineering and Machine Learning on GCP](https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945)
+
     
 <br>
  
@@ -30,7 +31,7 @@
 </a>
 
 <a href="https://github.com/kannanjayachandran">
-    <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,azure,gcp,html,css,bootstrap,react,vite,nextjs,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,postgres,azure,gcp,html,css,bootstrap,react,vite,nextjs,nodejs,express" />
 </a>
 
 [<img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" width="4%"/>](https://numpy.org/doc/)
