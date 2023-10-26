@@ -12,7 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=kannanjayachandran&label=Profile%20views&color=0e75b6&style=flat"alt="kannanjayachandran"/> </p>
 </h1>
 
-- 📍Based in **India**
-- 🎓Pursuing **B.Tech Computer Science Engineering Degreee** (Final year); with specialization in **Artificial Intelligence and Machine learning.** 
+- 📍 Based in **India**
+- 🎓 **Undergraduate Computer Science Engineering (Final year)**; with specialization in **Artificial Intelligence and Machine learning.** 
 - 💻 Currently working on **Machine learning Operations** and learning **Full stack Data science**. 
 - 🏆 [Microsoft Certified Azure Data Scientist Associative](https://www.credly.com/badges/326e81e7-08bd-4059-8029-79bcae461534/public_url) - [Data Engineering and Machine Learning on GCP](https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945)
