@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://twitter.com/kannanj362">
-  <img src="https://skillicons.dev/icons?i=twitter" width="3%"/>
     <a href="https://www.linkedin.com/in/kannan-j-976502223/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="3%"/>
   </a>
