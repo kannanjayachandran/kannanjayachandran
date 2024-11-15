@@ -12,5 +12,4 @@
 </h1>
 
 - 🎓 **Undergraduate Computer Science & Engineering** with specialization in **Artificial Intelligence and Machine learning.**
--  💻 **Learning**
 - 🏆 [Microsoft Certified Azure Data Scientist Associative](https://learn.microsoft.com/api/credentials/share/en-us/kannanjayachandran-2364/134F5A6BFDF08EE5?sharingId=3F429DD07346F073) - [Data Engineering and Machine Learning on GCP](https://coursera.org/share/720afb1a2a850ced564f75aab7f1a945)
